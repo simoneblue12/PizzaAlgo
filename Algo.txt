@@ -1,7 +1,2 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
-3. Decide which method of payment to use to order pizza
-4. Decide where pizza will be delivered
-5. Decide method of ordering pizza
-6. Decide when pizza will be delivered
-7. Decide to order pizza
